@@ -1,0 +1,10 @@
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\DTO\bin\Debug\DTO.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\DTO\bin\Debug\DTO.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\DTO\obj\Debug\DTO.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\DTO\obj\Debug\DTO.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\DTO\bin\Debug\DTO.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\DTO\bin\Debug\DTO.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\DTO\obj\Debug\DTO.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\DTO\obj\Debug\DTO.pdb

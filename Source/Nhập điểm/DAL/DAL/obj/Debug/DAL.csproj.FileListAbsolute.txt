@@ -1,0 +1,14 @@
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DAL\DAL\bin\Debug\DTO.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DAL\DAL\bin\Debug\DTO.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DAL\DAL\obj\Debug\DAL.pdb
+D:\Nhập điểm\DAL\DAL\bin\Debug\DAL.dll
+D:\Nhập điểm\DAL\DAL\bin\Debug\DAL.pdb
+D:\Nhập điểm\DAL\DAL\bin\Debug\DTO.dll
+D:\Nhập điểm\DAL\DAL\bin\Debug\DTO.pdb
+D:\Nhập điểm\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Nhập điểm\DAL\DAL\obj\Debug\DAL.dll
+D:\Nhập điểm\DAL\DAL\obj\Debug\DAL.pdb

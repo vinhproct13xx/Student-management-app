@@ -1,0 +1,18 @@
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\bin\Debug\BUS.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\bin\Debug\BUS.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\bin\Debug\DAL.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\bin\Debug\DTO.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\bin\Debug\DAL.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\bin\Debug\DTO.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\obj\Debug\BUS.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\BUS\BUS\obj\Debug\BUS.pdb
+D:\Nhập điểm\BUS\BUS\bin\Debug\BUS.dll
+D:\Nhập điểm\BUS\BUS\bin\Debug\BUS.pdb
+D:\Nhập điểm\BUS\BUS\bin\Debug\DAL.dll
+D:\Nhập điểm\BUS\BUS\bin\Debug\DTO.dll
+D:\Nhập điểm\BUS\BUS\bin\Debug\DAL.pdb
+D:\Nhập điểm\BUS\BUS\bin\Debug\DTO.pdb
+D:\Nhập điểm\BUS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Nhập điểm\BUS\BUS\obj\Debug\BUS.dll
+D:\Nhập điểm\BUS\BUS\obj\Debug\BUS.pdb

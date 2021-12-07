@@ -1,0 +1,5 @@
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập Hạnh Kiểm\DAL\bin\Debug\DAL.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập Hạnh Kiểm\DAL\bin\Debug\DAL.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập Hạnh Kiểm\DAL\obj\Debug\DAL.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập Hạnh Kiểm\DAL\obj\Debug\DAL.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập Hạnh Kiểm\DAL\obj\Debug\DAL_HANHKIEM.csprojResolveAssemblyReference.cache

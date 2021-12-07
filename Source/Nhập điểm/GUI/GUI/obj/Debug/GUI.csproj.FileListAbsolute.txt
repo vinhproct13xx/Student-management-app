@@ -1,0 +1,30 @@
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\BUS.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\DTO.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\BUS.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\DTO.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\obj\Debug\GUI.GUI_NHAPDIEM.resources
+D:\Nhập điểm\GUI\GUI\bin\Debug\GUI.exe.config
+D:\Nhập điểm\GUI\GUI\obj\Debug\GUI.exe
+D:\Nhập điểm\GUI\GUI\obj\Debug\GUI.pdb
+D:\Nhập điểm\GUI\GUI\bin\Debug\GUI.exe
+D:\Nhập điểm\GUI\GUI\bin\Debug\GUI.pdb
+D:\Nhập điểm\GUI\GUI\bin\Debug\BUS.dll
+D:\Nhập điểm\GUI\GUI\bin\Debug\DTO.dll
+D:\Nhập điểm\GUI\GUI\bin\Debug\DAL.dll
+D:\Nhập điểm\GUI\GUI\bin\Debug\BUS.pdb
+D:\Nhập điểm\GUI\GUI\bin\Debug\DTO.pdb
+D:\Nhập điểm\GUI\GUI\bin\Debug\DAL.pdb
+D:\Nhập điểm\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Nhập điểm\GUI\GUI\obj\Debug\GUI.GUI_NHAPDIEM.resources
+D:\Nhập điểm\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Nhập điểm\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\DAL.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\GUI\GUI\bin\Debug\DAL.pdb

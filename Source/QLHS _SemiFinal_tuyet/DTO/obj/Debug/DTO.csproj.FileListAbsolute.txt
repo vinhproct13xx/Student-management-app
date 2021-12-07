@@ -1,0 +1,30 @@
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\DTO\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\DTO\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\DTO\obj\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\DTO\obj\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\DTO\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\DTO\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\DTO\obj\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\DTO\obj\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\DTO\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\DTO\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\DTO\obj\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\DTO\obj\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\DTO\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\DTO\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\DTO\obj\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\DTO\obj\Debug\DTO.pdb
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\Source\QLHS _SemiFinal\DTO\bin\Debug\DTO.dll
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\Source\QLHS _SemiFinal\DTO\bin\Debug\DTO.pdb
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\Source\QLHS _SemiFinal\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\Source\QLHS _SemiFinal\DTO\obj\Debug\DTO.dll
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\Source\QLHS _SemiFinal\DTO\obj\Debug\DTO.pdb

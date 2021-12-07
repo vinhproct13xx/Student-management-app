@@ -1,0 +1,32 @@
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form1.resources
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmTiepNhanHocSinh.resources
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.GenerateResource.Cache
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmBaoCaoHocKy.resources
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmChuyenLop.resources
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmNhapDiem.resources
+D:\AnhTuyet\BaiHoc\hk2 2017-1018\CNPM\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmTraCuuHocSinh.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csprojResolveAssemblyReference.cache
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form1.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmBaoCaoHocKy.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmChuyenLop.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmNhapDiem.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmThayDoiQuyDinh.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmTiepNhanHocSinh.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmTraCuuHocSinh.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.GenerateResource.Cache
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.frmDangNhap.resources
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh_Thamkhao\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh_Thamkhao\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+D:\AnhTuyet\BaiHoc\Github\NhapMonCongNghePhanMem\WIP\Source\QuanLyHocSinh_Thamkhao\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb

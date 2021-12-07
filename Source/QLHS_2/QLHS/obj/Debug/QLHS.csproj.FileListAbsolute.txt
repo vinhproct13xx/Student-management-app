@@ -1,0 +1,9 @@
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\bin\Debug\QLHS.exe.config
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\bin\Debug\QLHS.exe
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\bin\Debug\QLHS.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\obj\Debug\QLHS.csprojResolveAssemblyReference.cache
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\obj\Debug\QLHS.Form1.resources
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\obj\Debug\QLHS.Properties.Resources.resources
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\obj\Debug\QLHS.csproj.GenerateResource.Cache
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\obj\Debug\QLHS.exe
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\QLHS\obj\Debug\QLHS.pdb

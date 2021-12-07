@@ -1,0 +1,45 @@
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\bin\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\bin\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\bin\Debug\DAL.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\bin\Debug\DAL.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\obj\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS\BUS\obj\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\obj\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\obj\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\bin\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\bin\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\bin\Debug\DAL.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\bin\Debug\DAL.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS - Copy\BUS\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\bin\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\bin\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\bin\Debug\DAL.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\bin\Debug\DAL.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\obj\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _2.0\BUS\obj\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\bin\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\bin\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\bin\Debug\DAL.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\bin\Debug\DAL.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\obj\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _3.0\BUS\obj\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\bin\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\bin\Debug\BUS.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\bin\Debug\DAL.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\bin\Debug\DTO.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\bin\Debug\DAL.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\bin\Debug\DTO.pdb
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\obj\Debug\BUS.dll
+C:\Users\Tung\Desktop\Secret Folder\Lập trình\CNPM\QLHS _4.0\BUS\obj\Debug\BUS.pdb

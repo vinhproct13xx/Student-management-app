@@ -1,0 +1,10 @@
+﻿Chữ màu trắng dùng: 
+
+mã màu gg dịch: #305ade
+mã màu facebook: #3b589c
+mã màu trello: #0052b3
+
+chữ màu đen dùng: 
+mã màu xanh nhạt dễ nhìn1: # 72d8cd
+mã màu xanh nhạt dễ nhìn 2: # 98d8d8
+mã màu hộp quà màu xanh: #51d3d1

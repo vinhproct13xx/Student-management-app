@@ -1,0 +1,36 @@
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\GUI.exe.config
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\GUI.exe
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\GUI.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\obj\Debug\GUI.exe
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\obj\Debug\GUI.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\BUS.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\DTO.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\DAL.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\BUS.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\DTO.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\bin\Debug\DAL.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS\GUI\obj\Debug\GUI.TaoLop.resources
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\GUI.exe.config
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.exe
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\GUI.exe
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\GUI.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\BUS.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\DTO.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\DAL.dll
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\BUS.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\DTO.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\bin\Debug\DAL.pdb
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.TaoLop.resources
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.frmChuyenLop.resources
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.frmThayDoiQuyDinh.resources
+D:\AnhTuyet\BaiHoc\Github\demoCSharp\QLHS_2\GUI\obj\Debug\GUI.frmNhapDiem.resources
+C:\Users\Tung\Desktop\Secret Folder\github\NhapMonCongNghePhanMem\WIP\Source\QLHS_2\GUI\bin\Debug\GUI.exe.config
+C:\Users\Tung\Desktop\Secret Folder\github\NhapMonCongNghePhanMem\WIP\Source\QLHS_2\GUI\obj\Debug\GUI.exe
+C:\Users\Tung\Desktop\Secret Folder\github\NhapMonCongNghePhanMem\WIP\Source\QLHS_2\GUI\obj\Debug\GUI.pdb

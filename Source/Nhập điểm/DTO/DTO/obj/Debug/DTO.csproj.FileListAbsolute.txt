@@ -1,0 +1,10 @@
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DTO\DTO\bin\Debug\DTO.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DTO\DTO\bin\Debug\DTO.pdb
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DTO\DTO\obj\Debug\DTO.dll
+C:\Users\asus\Downloads\Đồ án NMCNPM\Nhập điểm\DTO\DTO\obj\Debug\DTO.pdb
+D:\Nhập điểm\DTO\DTO\bin\Debug\DTO.dll
+D:\Nhập điểm\DTO\DTO\bin\Debug\DTO.pdb
+D:\Nhập điểm\DTO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Nhập điểm\DTO\DTO\obj\Debug\DTO.dll
+D:\Nhập điểm\DTO\DTO\obj\Debug\DTO.pdb
